@@ -9,7 +9,7 @@ class OpenStreetMapApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData.dark(),
-      title: 'Safezone App',
+      title: 'OpenStreetMap App',
       home: const HomeScreen(),
     );
   }

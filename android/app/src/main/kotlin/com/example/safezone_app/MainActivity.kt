@@ -1,4 +1,4 @@
-package com.example.safezone_app
+package com.example.open_street_map_app
 
 import io.flutter.embedding.android.FlutterActivity
 
